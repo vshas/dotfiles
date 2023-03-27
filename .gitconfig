@@ -1,0 +1,8 @@
+[user]
+	email = 112870033+vshas@users.noreply.github.com
+	name = vshas
+[init]
+	default = branch
+	default = branch
+[credential]
+	helper = /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret
